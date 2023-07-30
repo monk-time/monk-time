@@ -5,9 +5,11 @@
 <br>
 
 - 💼 Currently looking for full-time in-office work
+- 🌱 Currently learning FastAPI and MongoDB
 - 📫 How to reach me: [e-mail](mailto:dmitrybogorad@gmail.com), [telegram](https://t.me/skedoodle)
 - 🏫 Studied math and programming in St. Petersburg State University
 - 🎄 Long-time participant in the [Advent of Code](https://adventofcode.com) programming challenges: [link to my repo](https://github.com/monk-time/advent-of-code)
+- ⚡ Fun fact: can cook delicious falafel for a whole party
 
 ### Languages and tools
 <div>
@@ -28,6 +30,12 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img alt="HTML5" src="https://img.shields.io/badge/HTML5-FFF?logo=html5&logoColor=FFF&labelColor=E34F26" height="25"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img alt="CSS3" src="https://img.shields.io/badge/CSS3-FFF?logo=css3&logoColor=FFF&labelColor=1572B6" height="25"></a>
 </div>
+
+<br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monk-time&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monk-time&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
