@@ -7,7 +7,7 @@
 - 💼 Currently looking for full-time in-office work
 - 🌱 Currently learning FastAPI and MongoDB
 - 📫 How to reach me: [e-mail](mailto:dmitrybogorad@gmail.com), [telegram](https://t.me/skedoodle)
-- 🏫 Studied math and programming in St. Petersburg State University
+- 🏫 Studied math and programming at St. Petersburg State University
 - 🎄 Long-time participant in the [Advent of Code](https://adventofcode.com) programming challenges: [link to my repo](https://github.com/monk-time/advent-of-code)
 - ⚡ Fun fact: can cook delicious falafel for a whole party
 
