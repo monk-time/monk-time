@@ -4,8 +4,9 @@
 
 <br>
 
-- 📫 How to reach me: [e-mail](mailto:dmitrybogorad@gmail.com), [telegram](https://t.me/skedoodle)
 - 💼 Currently looking for full-time in-office work
+- 📫 How to reach me: [e-mail](mailto:dmitrybogorad@gmail.com), [telegram](https://t.me/skedoodle)
+- 🏫 Studied math and programming in St. Petersburg State University
 - 🎄 Long-time participant in the [Advent of Code](https://adventofcode.com) programming challenges: [link to my repo](https://github.com/monk-time/advent-of-code)
 
 ### Languages and tools
