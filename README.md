@@ -6,7 +6,8 @@
 
 - 💼 Currently looking for full-time in-office work
 - 🌱 Currently learning FastAPI and MongoDB
-- 📫 How to reach me: [e-mail](mailto:dmitrybogorad@gmail.com), [telegram](https://t.me/skedoodle)
+- 📫 How to reach me: <a href="mailto:dmitrybogorad@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-FFF?logo=gmail&logoColor=FFF&labelColor=blue"></a> <a href="https://t.me/skedoodle"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-FFF?logo=telegram&logoColor=FFF&labelColor=blue"></a>
+
 - 🏫 Studied math and programming at St. Petersburg State University
 - 🎄 Long-time participant in the [Advent of Code](https://adventofcode.com) programming challenges: [link to my repo](https://github.com/monk-time/advent-of-code)
 - ⚡ Fun fact: can cook delicious falafel for a whole party
@@ -35,20 +36,3 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monk-time&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monk-time&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**monk-time/monk-time** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
