@@ -7,7 +7,6 @@
 - 💼 Currently looking for full-time in-office work
 - 🌱 Currently learning FastAPI and MongoDB
 - 📫 How to reach me: <a href="mailto:dmitrybogorad@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-FFF?logo=gmail&logoColor=FFF&labelColor=blue"></a> <a href="https://t.me/skedoodle"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-FFF?logo=telegram&logoColor=FFF&labelColor=blue"></a>
-
 - 🏫 Studied math and programming at St. Petersburg State University
 - 🎄 Long-time participant in the [Advent of Code](https://adventofcode.com) programming challenges: [link to my repo](https://github.com/monk-time/advent-of-code)
 - ⚡ Fun fact: can cook delicious falafel for a whole party
