@@ -4,7 +4,6 @@
 
 <br>
 
-- 💼 Currently looking for full-time in-office work
 - 🌱 Currently learning FastAPI and MongoDB
 - 📫 How to reach me: <a href="mailto:dmitrybogorad@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/Email-blue?logo=gmail&logoColor=FFF"></a> <a href="https://t.me/skedoodle"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=FFF"></a>
 - 🏫 Studied math and programming at St. Petersburg State University
